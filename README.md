@@ -11,3 +11,12 @@
 ## Редакторы
 * https://notepad-plus-plus.org/downloads/
 * https://code.visualstudio.com/
+
+## Изучение SQL
+* https://www.sql-ex.ru/
+* https://sql-academy.org/
+* https://stepik.org/course/63054
+
+## SQL-компиляторы
+* https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+* https://www.elephantsql.com/
